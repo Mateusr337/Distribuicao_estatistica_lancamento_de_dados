@@ -3,3 +3,4 @@
 # Distribuicao-estatistica-de-lancamento-de-dados
 # Distribuicao-estatistica-de-lancamento-de-dados
 # Distribuicao-estatistica-de-lancamento-de-dados
+# Distribuicao-estatistica-de-lancamento-de-dados
